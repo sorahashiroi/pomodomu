@@ -2,7 +2,7 @@
 Pomodoro timer for efficient work.
 
 ## 🍅 Overview
-** pomodomu ** is a timer that manages work and break cycles based on the Pomodoro Technique.
+**pomodomu** is a timer that manages work and break cycles based on the Pomodoro Technique.
 
 ## 🍅 Usage
 
