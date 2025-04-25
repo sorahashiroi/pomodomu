@@ -1,10 +1,10 @@
 # 🍅 pomodomu
 Pomodoro timer for efficient work.
 
-## 🍅🍅 Overview
+## 🍅 Overview
 ** pomodomu ** is a timer that manages work and break cycles based on the Pomodoro Technique.
 
-## 🍅🍅🍅 Usage
+## 🍅 Usage
 
 ```sh
 pomodomu [options]
@@ -20,15 +20,13 @@ Options:
   --help                   Show this help message.
 ```
 
-## 🍅🍅🍅🍅 Installation
+## 🍅 Installation
 
-## 🍅🍅🍅🍅🍅 About
-`pomodomu` is a simple command-line Pomodoro timer designed to boost your productivity! 🚀
-Based on the Pomodoro Technique, it helps you focus by breaking work into 25-minute sessions 🍅, followed by short breaks 🧘‍♀️.
-After four Pomodoros, it encourages a longer break to keep you refreshed and prevent burnout 🌱.
+## 🍅 About
+`pomodomu` is a simple command-line Pomodoro timer designed to boost your productivity!
+- Pomodoro Technique : Break work into 25-minute sessions, followed by short breaks.
+- After four Pomodoros, enjoy a longer break to stay refreshed and avoid burnout.
+- Efficiency: Just like the Dom mobile suit from Gundam, pomodomu helps you efficiently manage work and rest cycles.
 
-The name `pomodomu` combines "Pomodoro" (the Italian word for "tomato", 🍅 which inspired the Pomodoro Technique) and "Domu" 🦾, referencing the iconic Dom mobile suit from the Gundam series! 💥
-Just like the Dom, a powerful and efficient machine, `pomodomu` helps you efficiently manage your work and break cycles 💪.
-
-## 🍅🍅🍅🍅🍅🍅 Autors
+## 🍅 Autors
 - [Mizuki Yamano](https://github.com/sorahashiroi)
