@@ -4,6 +4,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/sorahashiroi/pomodomu/badge.svg?branch=main)](https://coveralls.io/github/sorahashiroi/pomodomu?branch=main)
 
 Pomodoro timer for efficient work.
+[![Go Report Card](https://goreportcard.com/badge/github.com/sorahashiroi/pomodomu)](https://goreportcard.com/report/github.com/sorahashiroi/pomodomu)
 
 ## 🍅 Overview
 **pomodomu** is a timer that manages work and break cycles based on the Pomodoro Technique.
