@@ -1,5 +1,6 @@
 # 🍅 pomodomu
 Pomodoro timer for efficient work.
+[![Go Report Card](https://goreportcard.com/badge/github.com/sorahashiroi/pomodomu)](https://goreportcard.com/report/github.com/sorahashiroi/pomodomu)
 
 ## 🍅 Overview
 **pomodomu** is a timer that manages work and break cycles based on the Pomodoro Technique.
