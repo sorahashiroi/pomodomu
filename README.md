@@ -1,9 +1,11 @@
 # 🍅 pomodomu
 Pomodoro timer for efficient work.
+
 ![MIT License](https://img.shields.io/badge/license-MIT-blue "MIT License")
 [![Go Report Card](https://goreportcard.com/badge/github.com/sorahashiroi/pomodomu)](https://goreportcard.com/report/github.com/sorahashiroi/pomodomu)
 [![Coverage Status](https://coveralls.io/repos/github/sorahashiroi/pomodomu/badge.svg?branch=main)](https://coveralls.io/github/sorahashiroi/pomodomu?branch=main)
-![Version](https://img.shields.io/badge/Version-0.1.5-blue)
+
+![Version](https://img.shields.io/badge/Version-0.1.6-blue)
 
 ## 🍅 Overview
 **pomodomu** is a timer that manages work and break cycles based on the Pomodoro Technique.
