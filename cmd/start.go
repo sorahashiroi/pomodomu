@@ -20,7 +20,6 @@ var startCmd = &cobra.Command{
 }
 
 func init() {
-	// フラグの設定
 	startCmd.Flags().IntVarP(&focusDuration, "focus", "f", 25, "Focus duration in minutes")
 	startCmd.Flags().IntVarP(&breakDuration, "break", "b", 5, "Short break duration in minutes")
 	startCmd.Flags().IntVarP(&longBreakDuration, "long-break", "l", 15, "Long break duration in minutes")
