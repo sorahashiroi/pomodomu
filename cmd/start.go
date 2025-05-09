@@ -10,7 +10,6 @@ var breakDuration int
 var longBreakDuration int
 var cycles int
 
-// startCmd represents the start command
 var startCmd = &cobra.Command{
 	Use:   "start",
 	Short: "Start a new Pomodoro session",
